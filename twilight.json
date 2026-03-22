@@ -1,9 +1,9 @@
 {
     "name": {
-        "ar": "رائد",
+        "ar": "Nexora",
         "en": "Theme Raed"
     },
-    "repository": "https://github.com/SallaApp/theme-raed",
+    "repository": "https://github.com/nexoraservice/NEXORA-3",
     "author_email": "support@salla.sa",
     "features": [
         "mega-menu",
